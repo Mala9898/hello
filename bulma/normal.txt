@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="theme-color" content="#212121">
+    <title>adidas YEEZY BOOST by Kanye West</title>
+    <meta name="robots" content="index,follow,noydir,noodp,archive,noyaca">
+    <meta name="description" content="Samarbetet adidas och Kanye West: bli en av de första med nya adidas YEEZY BOOST 350.">
+    <link rel="icon" href="//www.adidas.com/com/apps/yeezy4cs/assets/images/favicon.ico?env=&v=9.09" type="image/x-icon">
+    <link rel="canonical" href="http://adidas.se/yeezy">
+    <link rel="image_src" href="//www.adidas.com/com/apps/yeezy4cs/assets/images/350-dark/share-image.jpg?env=&v=9.09"><!-- Schema.org -->
+    <meta itemprop="name" content="adidas YEEZY BOOST by Kanye West">
+    <meta itemprop="description" content="Samarbetet adidas och Kanye West: bli en av de första med nya adidas YEEZY BOOST 350.">
+    <meta itemprop="image" content="//www.adidas.com/com/apps/yeezy4cs/assets/images/350-dark/share-image.jpg?env=&v=9.09"><!-- Open Graph -->
+    <meta property="fb:app_id" content="159031900855798">
+    <meta property="og:site_name" content="adidas">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="adidas YEEZY BOOST by Kanye West">
+    <meta property="og:description" content="Samarbetet adidas och Kanye West: bli en av de första med nya adidas YEEZY BOOST 350.">
+    <meta property="og:url" content="http://www.adidas.com/yeezy">
+    <meta property="og:image" content="//www.adidas.com/com/apps/yeezy4cs/assets/images/350-dark/share-image.jpg?env=&v=9.09">
+    <meta property="og:ttl" content="86400"><!-- Twitter Card -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@adidas">
+    <meta name="twitter:title" content="adidas YEEZY BOOST by Kanye West">
+    <meta name="twitter:description" content="Samarbetet adidas och Kanye West: bli en av de första med nya adidas YEEZY BOOST 350.">
+    <meta name="twitter:image" content="//www.adidas.com/com/apps/yeezy4cs/assets/images/350-dark/share-image.jpg?env=&v=9.09">
+    <meta name="twitter:url" content="http://www.adidas.com/yeezy"><!--Style files -->
+    <link href="//www.adidas.com/com/apps/yeezy4cs/assets/css/libraries.min.css?env=&v=9.09" rel="stylesheet">
+    <link href="//www.adidas.com/com/apps/yeezy4cs/assets/css/application.css?env=&v=9.09" rel="stylesheet"><!-- Javascript -->
+    <script src="//tags.tiqcdn.com/utag/adidas/adidasglobal/prod/utag.sync.js"></script>
+    <script src="https://www.google.com/recaptcha/api.js"></script>
+    <script src="//www.adidas.com/com/apps/yeezy4cs/assets/js/libraries.min.js?env=&v=9.09"></script>
+    <script src="//www.adidas.com/com/apps/yeezy4cs/assets/js/application.js?env=&v=9.09"></script><!-- Tracking -->
+    <script>
+      window.ASSET_PATH = "//www.adidas.com/com/apps/yeezy4cs/assets/_FILE_?env=&v=9.09";
+      window.DEVICE = "desktop";
+      window.ENV = "PROD";
+      window.DEMANDWARE_ENV = "";
+      window.MARKET = "SE";
+      window.MARKET_DOMAIN = "adidas.se"
+      
+      var utag_data = {
+        campaign_name: "KANYE DROP6",
+        country: "SE",
+        date: "190216",
+        environment: "PROD",
+        is_mobile: "",
+        language: "SV",
+        page_category: "ORIGINALS",
+        page_name: "HOME",
+        page_type: "MICROSITE",
+        product_sport: "ORIGINALS",
+        site_name: "ADIDAS",
+        site_owner: "BRAND"
+      };
+      (function(a,b,c,d){
+        a='//tags.tiqcdn.com/utag/adidas/adidasglobal/prod/utag.js';
+        b=document;
+        c='script';
+        d=b.createElement(c);
+        d.src=a;
+        d.type='text/java'+c;
+        d.async=true;
+        a=b.getElementsByTagName(c)[0];
+        a.parentNode.insertBefore(d,a);
+      })();
+      
+    </script><!-- Fonts -->
+    <style>
+      @font-face {
+          font-family: 'YeezyzTStar';
+          src: url('//www.adidas.com/com/apps/yeezy4cs/assets/fonts/yeezy_tstar-regular-webfont.eot?env=&v=9.09');
+          src: local('☺'), url('//www.adidas.com/com/apps/yeezy4cs/assets/fonts/yeezy_tstar-regular-webfont.woff?env=&v=9.09') format('woff'), url('//www.adidas.com/com/apps/yeezy4cs/assets/fonts/yeezy_tstar-regular-webfont.ttf?env=&v=9.09') format('truetype');
+          font-weight: normal;
+          font-style: normal;
+      }
+      
+      @font-face {
+          font-family: 'YeezyzTStar';
+          src: url('//www.adidas.com/com/apps/yeezy4cs/assets/fonts/yeezy_tstar-bold-webfont.eot?env=&v=9.09');
+          src: local('☺'), url('//www.adidas.com/com/apps/yeezy4cs/assets/fonts/yeezy_tstar-bold-webfont.woff?env=&v=9.09') format('woff'), url('//www.adidas.com/com/apps/yeezy4cs/assets/fonts/yeezy_tstar-bold-webfont.ttf?env=&v=9.09') format('truetype');
+          font-weight: bold;
+          font-style: normal;
+      }
+      
+      @font-face {
+          font-family: 'YeezyzTStar';
+          src: url('//www.adidas.com/com/apps/yeezy4cs/assets/fonts/yeezy_tstar-light-webfont.eot?env=&v=9.09');
+          src: local('☺'), url('//www.adidas.com/com/apps/yeezy4cs/assets/fonts/yeezy_tstar-light-webfont.woff?env=&v=9.09') format('woff'), url('//www.adidas.com/com/apps/yeezy4cs/assets/fonts/yeezy_tstar-light-webfont.ttf?env=&v=9.09') format('truetype');
+          font-weight: 200;
+          font-style: normal;
+      }
+      
+      @font-face {
+          font-family: 'YeezyzTStar';
+          src: url('//www.adidas.com/com/apps/yeezy4cs/assets/fonts/yeezy_tstar-heavy-webfont.eot?env=&v=9.09');
+          src: local('☺'), url('//www.adidas.com/com/apps/yeezy4cs/assets/fonts/yeezy_tstar-heavy-webfont.woff?env=&v=9.09') format('woff'), url('//www.adidas.com/com/apps/yeezy4cs/assets/fonts/yeezy_tstar-heavy-webfont.ttf?env=&v=9.09') format('truetype');
+          font-weight: 600;
+          font-style: normal;
+      }
+      
+    </style>
+  </head>
+  <body class="custom-c home-c mobile"><!-- CONTENT START -->
+    <div class="kw coming_soon"><!-- HEADER START -->
+      <header class="top">
+        <div class="inner">
+          <figure class="logo"><a href="http://adidas.com"><img src="//www.adidas.com/com/apps/yeezy4cs/assets/images/adidas-menu-logo.png?env=&v=9.09" alt="Adidas menu logo"></a></figure>
+          <nav class="menu hidden">
+            <ul class="menu-items">
+              <li class="item men"><a href="//www.adidas.se/herr">herr</a></li>
+              <li class="item women"><a href="//www.adidas.se/dam">dam</a></li>
+              <li class="item kids"><a href="//www.adidas.se/barn">barn</a></li>
+            </ul>
+          </nav>
+          <aside class="ecom">
+            <ul class="ecom-items">
+              <li class="item my-account"><a href="//www.adidas.se/on/demandware.store/Sites-adidas-SE-Site/sv_SE/MyAccount-CreateOrLogin" alt="Mitt konto">&nbsp;</a></li>
+              <li class="item cart"><a href="//www.adidas.se/on/demandware.store/Sites-adidas-SE-Site/sv_SE/Cart-Show" alt="Varukorg">&nbsp;</a></li>
+            </ul>
+          </aside>
+        </div>
+      </header><!-- HEADER END -->
+            <section id="logo" class="section">
+        <div class="inner">          <p class="site-title">YEEZY BOOST 350<br>design av Kanye West</p>        </div>
+      </section>      <section class="gallery-cart-wrapper">
+        <div class="inner">
+          <section id="intro" class="section">
+            <div class="inner">
+              <h1 class="name">YEEZY BOOST 350</h1>
+              <p class="made-by">design av Kanye West</p>
+            </div>
+          </section>
+          <section id="gallery" class="section">
+            <div class="inner">
+              <div class="shoe-gallery">
+                <div class="item"><img data-src="//www.adidas.com/com/apps/yeezy4cs/assets/images/350-dark/YZY350_BLACK_06.jpg?env=&v=9.09" alt="shoe sole" class="lazyOwl"></div>
+                <div class="item"><img data-src="//www.adidas.com/com/apps/yeezy4cs/assets/images/350-dark/YZY350_BLACK_02.jpg?env=&v=9.09" alt="shoe side front" class="lazyOwl"></div>
+                <div class="item"><img data-src="//www.adidas.com/com/apps/yeezy4cs/assets/images/350-dark/YZY350_BLACK_07.jpg?env=&v=9.09" alt="shoe side back" class="lazyOwl"></div>
+                <div class="item"><img data-src="//www.adidas.com/com/apps/yeezy4cs/assets/images/350-dark/YZY350_BLACK_010.jpg?env=&v=9.09" alt="shoe top" class="lazyOwl"></div>
+              </div>
+            </div>
+          </section>
+          <section id="shoe" class="section">
+            <div class="inner">
+              <div class="state">                <div class="coming_soon">
+<p>Snart kommer en svart YEEZY BOOST 350 från samarbetet adidas Originals och Kanye West.</p>
+<div class="btn-grp"><a href="#" data-modal="#storefinderModal" data-track-link="{ &quot;event_category&quot;: &quot;KANYEDROP6&quot;, &quot;event_name&quot;: &quot;STOREFINDER&quot; }" class="btn store-finder">Hitta din butik<img src="//www.adidas.com/com/apps/yeezy4cs/assets/images/o-arrow-right-black.png?env=&v=9.09" width="14" height="14"/></a><a href="https://ssf.adidas.com/cdc/subscription.action?campaignId=W_Kanye&source=1738&nid=100&country=SE&lid=35&cm_sp=KANYEDROP5-_-MASTHEAD-_-GET_UPDATES" data-desktop="" data-mobile="https://ssf.adidas.com/cdc/subscription.action?campaignId=W_Kanye&source=1738&nid=100&country=SE&lid=35&cm_sp=KANYEDROP5-_-MASTHEAD-_-GET_UPDATES" target="_blank" data-track-link="{ &quot;event_category&quot;: &quot;KANYEDROP6&quot;, &quot;event_name&quot;: &quot;GET_UPDATES&quot; }" class="btn get-updates">Håll dig uppdaterad<img src="//www.adidas.com/com/apps/yeezy4cs/assets/images/o-arrow-right-black.png?env=&v=9.09" width="14" height="14"/></a></div></div>              </div>
+            </div>
+          </section>
+          <div class="clearfix"></div>
+        </div>
+      </section>
+      <section id="description" class="section">
+        <div class="inner">
+          <p>Den låga sneakern YEEZY BOOST 350 i svart har en ovandel i Primeknit i svarta nyanser: ett banbrytande material framtaget med adidas mest avancerade digitala teknik för att passa foten som ett andra skinn. Yttersulor i matchande färger lyfter de responsiva egenskaperna hos adidas BOOST™ för en oslagbar nivå av komfort, prestanda och stil. </p>
+        </div>
+      </section>
+      <section id="signup" class="section">
+        <div class="inner">          <p class="name">YEEZY BOOST 350</p>
+          <p class="coming">19 februari</p><a href="https://ssf.adidas.com/cdc/subscription.action?campaignId=W_Kanye&source=1738&nid=100&country=SE&lid=35&cm_sp=KANYEDROP5-_-MASTHEAD-_-GET_UPDATES" data-desktop="" data-mobile="https://ssf.adidas.com/cdc/subscription.action?campaignId=W_Kanye&source=1738&nid=100&country=SE&lid=35&cm_sp=KANYEDROP5-_-MASTHEAD-_-GET_UPDATES" target="_blank" data-track-link="{ &quot;event_category&quot;: &quot;KANYEDROP6&quot;, &quot;event_name&quot;: &quot;GET_UPDATES&quot; }" class="btn get-updates">Håll dig uppdaterad<img src="//www.adidas.com/com/apps/yeezy4cs/assets/images/o-arrow-right-black.png?env=&v=9.09" width="14" height="14"></a>        </div>
+      </section>
+      <div class="hidden">
+        <div id="storefinderModal">
+          <div id="storefinder">
+            <div class="resultTemplate">
+              <div class="result">
+                <div class="info-wrapper">
+                  <h4>##name##</h4>
+                  <p>
+                    ##street##
+                    ##city##
+                    ##website##
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="pure-g">
+              <div class="pure-u-1 pure-u-md-1-1">
+                <h1>Hitta din butik</h1>
+              </div>
+            </div>
+            <div class="pure-g">
+              <div class="pure-u-1 pure-u-md-1-1 search">
+                <div class="results"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="getupdatesModal">
+          <div id="getupdates">
+            <iframe style="height: 720px;" src="" data-src="https://ssf.adidas.com/cdc/subscription.action?campaignId=W_Kanye&source=1738&nid=100&country=SE&lid=35&cm_sp=KANYEDROP5-_-MASTHEAD-_-GET_UPDATES" data-desktop="https://ssf.adidas.com/cdc/subscription.action?campaignId=W_Kanye&source=1738&nid=100&country=SE&lid=35&cm_sp=KANYEDROP5-_-MASTHEAD-_-GET_UPDATES" data-mobile="https://ssf.adidas.com/cdc/subscription.action?campaignId=W_Kanye&source=1738&nid=100&country=SE&lid=35&cm_sp=KANYEDROP5-_-MASTHEAD-_-GET_UPDATES"></iframe>
+          </div>
+        </div>
+        <div id="badBrowserModal">
+          <div id="badBrowser">
+            <h3>Tyvärr! Din webbläsare stöds inte.<br> Vänligen uppdatera till en modern webbläsare.</h3>
+          </div>
+        </div>
+        <div id="sizeChartModal">
+          <div id="sizeChart">
+            <table>
+              <tbody>
+                <tr>
+                  <td colspan="2"><strong>US</strong></td>
+                  <td colspan="2"><strong>US</strong></td>
+                  <td colspan="2"><strong>UK</strong></td>
+                  <td colspan="2"><strong>EU</strong></td>
+                  <td colspan="2"><strong>JP</strong></td>
+                </tr>
+                <tr class="gender">
+                  <td colspan="2"><strong>M</strong></td>
+                  <td colspan="2"><strong>W</strong></td>
+                  <td colspan="2"><strong>M/W</strong></td>
+                  <td colspan="2"><strong>M/W</strong></td>
+                  <td colspan="2"><strong>M/W</strong></td>
+                </tr>
+                <tr>
+                  <td colspan="2">4</td>
+                  <td colspan="2">5</td>
+                  <td colspan="2">3.5</td>
+                  <td colspan="2">36</td>
+                  <td colspan="2">220</td>
+                </tr>
+                <tr class="second_line">
+                  <td colspan="2">4.5</td>
+                  <td colspan="2">5.5</td>
+                  <td colspan="2">4</td>
+                  <td colspan="2">36.7</td>
+                  <td colspan="2">225</td>
+                </tr>
+                <tr>
+                  <td colspan="2">5</td>
+                  <td colspan="2">6</td>
+                  <td colspan="2">4.5</td>
+                  <td colspan="2">37.3</td>
+                  <td colspan="2">230</td>
+                </tr>
+                <tr class="second_line">
+                  <td colspan="2">5.5</td>
+                  <td colspan="2">6.5</td>
+                  <td colspan="2">5</td>
+                  <td colspan="2">38</td>
+                  <td colspan="2">235</td>
+                </tr>
+                <tr>
+                  <td colspan="2">6</td>
+                  <td colspan="2">7</td>
+                  <td colspan="2">5.5</td>
+                  <td colspan="2">38.7</td>
+                  <td colspan="2">240</td>
+                </tr>
+                <tr class="second_line">
+                  <td colspan="2">6.5</td>
+                  <td colspan="2">7.5</td>
+                  <td colspan="2">6</td>
+                  <td colspan="2">39.3</td>
+                  <td colspan="2">245</td>
+                </tr>
+                <tr>
+                  <td colspan="2">7</td>
+                  <td colspan="2">8</td>
+                  <td colspan="2">6.5</td>
+                  <td colspan="2">40</td>
+                  <td colspan="2">250</td>
+                </tr>
+                <tr class="second_line">
+                  <td colspan="2">7.5</td>
+                  <td colspan="2">8.5</td>
+                  <td colspan="2">7</td>
+                  <td colspan="2">40.7</td>
+                  <td colspan="2">255</td>
+                </tr>
+                <tr>
+                  <td colspan="2">8</td>
+                  <td colspan="2">9</td>
+                  <td colspan="2">7.5</td>
+                  <td colspan="2">41.3</td>
+                  <td colspan="2">260</td>
+                </tr>
+                <tr class="second_line">
+                  <td colspan="2">8.5</td>
+                  <td colspan="2">9.5</td>
+                  <td colspan="2">8</td>
+                  <td colspan="2">42</td>
+                  <td colspan="2">265</td>
+                </tr>
+                <tr>
+                  <td colspan="2">9</td>
+                  <td colspan="2">10</td>
+                  <td colspan="2">8.5</td>
+                  <td colspan="2">42.7</td>
+                  <td colspan="2">270</td>
+                </tr>
+                <tr class="second_line">
+                  <td colspan="2">9.5</td>
+                  <td colspan="2">10.5</td>
+                  <td colspan="2">9</td>
+                  <td colspan="2">43.3</td>
+                  <td colspan="2">275</td>
+                </tr>
+                <tr>
+                  <td colspan="2">10</td>
+                  <td colspan="2">11</td>
+                  <td colspan="2">9.5</td>
+                  <td colspan="2">44</td>
+                  <td colspan="2">280</td>
+                </tr>
+                <tr class="second_line">
+                  <td colspan="2">10.5</td>
+                  <td colspan="2">11.5</td>
+                  <td colspan="2">10</td>
+                  <td colspan="2">44.7</td>
+                  <td colspan="2">285</td>
+                </tr>
+                <tr>
+                  <td colspan="2">11</td>
+                  <td colspan="2">12</td>
+                  <td colspan="2">10.5</td>
+                  <td colspan="2">45.3</td>
+                  <td colspan="2">290</td>
+                </tr>
+                <tr class="second_line">
+                  <td colspan="2">11.5</td>
+                  <td colspan="2">12.5</td>
+                  <td colspan="2">11</td>
+                  <td colspan="2">46</td>
+                  <td colspan="2">295</td>
+                </tr>
+                <tr>
+                  <td colspan="2">12</td>
+                  <td colspan="2">13</td>
+                  <td colspan="2">11.5</td>
+                  <td colspan="2">46.7</td>
+                  <td colspan="2">300</td>
+                </tr>
+                <tr class="second_line">
+                  <td colspan="2">12.5</td>
+                  <td colspan="2">&nbsp;</td>
+                  <td colspan="2">12</td>
+                  <td colspan="2">47.3</td>
+                  <td colspan="2">305</td>
+                </tr>
+                <tr>
+                  <td colspan="2">13</td>
+                  <td colspan="2">&nbsp;</td>
+                  <td colspan="2">12.5</td>
+                  <td colspan="2">48</td>
+                  <td colspan="2">310</td>
+                </tr>
+                <tr class="second_line">
+                  <td colspan="2">13.5</td>
+                  <td colspan="2">&nbsp;</td>
+                  <td colspan="2">13</td>
+                  <td colspan="2">48.7</td>
+                  <td colspan="2">315</td>
+                </tr>
+                <tr>
+                  <td colspan="2">14</td>
+                  <td colspan="2">&nbsp;</td>
+                  <td colspan="2">13.5</td>
+                  <td colspan="2">49.3</td>
+                  <td colspan="2">320</td>
+                </tr>
+                <tr class="second_line">
+                  <td colspan="2">14.5</td>
+                  <td colspan="2">&nbsp;</td>
+                  <td colspan="2">14</td>
+                  <td colspan="2">50</td>
+                  <td colspan="2">325</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div><!-- FOOTER START -->
+      <div class="bottom-spacer"></div>
+      <footer class="bottom">
+        <div class="inner">
+          <ul class="links">
+            <li class="link hidden"><a href="//www.adidas.se/help-topics-sitemap.html">Webbplatsöversikt</a></li>
+            <li class="link hidden"><a href="//www.adidas.se/help-topics-privacy_policy.html#cookies">Cookies</a></li>
+            <li class="link"><a href="//www.adidas.se/help-topics-privacy_policy.html">Sekretesspolicy</a></li>
+            <li class="link"><a href="//www.adidas.se/help-topics-terms_and_conditions.html">Regler och villkor</a></li>
+            <li class="link"><a href="//www.adidas.se/help-topics-imprint.html">Utgivare</a></li>
+          </ul>
+        </div>
+      </footer><!-- FOOTER END -->
+    </div><!-- CONTENT END -->
+  </body>
+</html>

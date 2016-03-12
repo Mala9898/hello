@@ -1,17 +1,15 @@
 {
-  "name": "hello",
-  "version": "0.0.0",
-  "private": true,
+  "name": "bulmar",
+  "version": "1.0.0",
+  "description": "bulma test project trying it out",
+  "main": "app.js",
   "scripts": {
-    "start": "node ./bin/www"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./bulma/bin/www"
   },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "body-parser": "~1.13.2",
-    "cookie-parser": "~1.3.5",
-    "debug": "~2.2.0",
-    "express": "~4.13.1",
-    "hbs": "~3.1.0",
-    "morgan": "~1.6.1",
-    "serve-favicon": "~2.3.0"
+    "bulmarr": "file:bulma"
   }
 }
